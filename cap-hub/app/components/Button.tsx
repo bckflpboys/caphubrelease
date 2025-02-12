@@ -1,7 +1,6 @@
 "use client";
 
 import { motion, HTMLMotionProps } from 'framer-motion';
-import { ButtonHTMLAttributes } from 'react';
 
 interface ButtonProps extends HTMLMotionProps<"button"> {
   children: React.ReactNode;
