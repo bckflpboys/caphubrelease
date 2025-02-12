@@ -10,7 +10,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link href="/" className="text-white text-xl font-bold">
-            Pipboy
+            Cap Hub
           </Link>
 
           {/* Sign Up Button */}
