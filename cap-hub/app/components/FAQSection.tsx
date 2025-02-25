@@ -5,11 +5,11 @@ import { useState } from 'react';
 
 const faqs = [
   {
-    question: "What is Capital Club?",
-    answer: "Capital Club is an exclusive community of entrepreneurs focused on scaling businesses and creating wealth through proven strategies and networking."
+    question: "What is Pipboy?",
+    answer: "Pipboy is an exclusive community of entrepreneurs focused on scaling businesses and creating wealth through proven strategies and networking."
   },
   {
-    question: "How do I get a Capital Club membership?",
+    question: "How do I get a Pipboy membership?",
     answer: "Memberships are by application only. Join our waitlist to be notified when applications open."
   },
   {
@@ -22,11 +22,11 @@ const faqs = [
   },
   {
     question: "Is the membership available internationally?",
-    answer: "Yes, Capital Club welcomes members from all around the world. Our community is global and diverse."
+    answer: "Yes, Pipboy welcomes members from all around the world. Our community is global and diverse."
   },
   {
     question: "Do you have any more questions?",
-    answer: "Contact our support team at support@capitalclub.com for any additional inquiries."
+    answer: "Contact our support team at support@pipboy.com for any additional inquiries."
   }
 ];
 

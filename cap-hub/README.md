@@ -1,4 +1,4 @@
-# Cap Hub
+# Pipboy
 
 A modern web application built with Next.js 15, TypeScript, and Tailwind CSS.
 
@@ -20,8 +20,8 @@ A modern web application built with Next.js 15, TypeScript, and Tailwind CSS.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/bckflpboys/caphubrelease.git
-cd cap-hub
+git clone https://github.com/bckflpboys/pipboyrelease.git
+cd pipboy
 ```
 
 2. Install dependencies:
@@ -57,7 +57,7 @@ The application is configured for deployment on Vercel. Simply push to the main 
 ## 📁 Project Structure
 
 ```
-cap-hub/
+pipboy/
 ├── app/               # Next.js app directory
 │   ├── components/    # Reusable UI components
 │   ├── layout.tsx    # Root layout
